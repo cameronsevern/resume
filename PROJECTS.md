@@ -8,9 +8,9 @@ An AI-assisted wildlife identification and collection app published on the [App 
 - Kept API keys, validation, parsing, moderation, and safety controls behind authenticated server-side boundaries.
 - Added local-first persistence, signed-in backup, bounded retries, safe failure states, observability, accessibility, and localization.
 
-## [Sleep Mask](https://play.google.com/store/apps/details?id=com.cools.sleepmask) — published
+## Sleep Mask — published
 
-A privacy-first adaptive noise machine published on Google Play.
+A privacy-first adaptive noise machine published on the [App Store](https://apps.apple.com/us/app/sleep-mask-adaptive-noise/id6790191176) and [Google Play](https://play.google.com/store/apps/details?id=com.cools.sleepmask).
 
 - Synthesizes multiple noise profiles and reshapes them in real time using FFT and Bark-band analysis.
 - Performs microphone analysis entirely on-device without recording, storing, or transmitting room audio.

@@ -35,9 +35,9 @@ Scientist and technologist with an MS in Biostatistics who progressed to Princip
 
 - Published and operated an AI-backed Flutter app on the App Store and Google Play using Firebase Auth, Cloud Functions, Firestore, and Gemini; hardened model flows with server-side guards, strict parsing, moderation, bounded retries, observability, and safe localized failures.
 
-### [Sleep Mask](https://play.google.com/store/apps/details?id=com.cools.sleepmask) | Published Adaptive Audio Product
+### Sleep Mask | Published Adaptive Audio Product
 
-- Published a privacy-first Flutter app on Google Play that synthesizes adaptive noise in real time, analyzes room sound on-device with FFT and Bark-band processing, and reshapes output without recording or transmitting microphone audio.
+- Published a privacy-first Flutter app on the [App Store](https://apps.apple.com/us/app/sleep-mask-adaptive-noise/id6790191176) and [Google Play](https://play.google.com/store/apps/details?id=com.cools.sleepmask) that synthesizes adaptive noise in real time, analyzes room sound on-device with FFT and Bark-band processing, and reshapes output without recording or transmitting microphone audio.
 
 ### Slushnet | Agentic Engineering Platform - In Development
 
